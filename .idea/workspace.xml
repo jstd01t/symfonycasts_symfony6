@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f08c358-f854-4521-8299-ff7d9c197036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/browse.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/homepage.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/VinylController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/VinylController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +66,12 @@
       <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
     </include_path>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,9 +79,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true"
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "last_opened_file_path": "/home/user/Test/symfonycasts_symfony6/templates/vinyl"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/vinyl" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="TaskManager">
     <servers />
   </component>
