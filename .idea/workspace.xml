@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9f08c358-f854-4521-8299-ff7d9c197036" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/controllers/hello_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/controllers/song-controls_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651509376111</updated>
       <workItem from="1651509383032" duration="2525000" />
-      <workItem from="1651586229523" duration="8902000" />
+      <workItem from="1651586229523" duration="11942000" />
     </task>
     <servers />
   </component>
