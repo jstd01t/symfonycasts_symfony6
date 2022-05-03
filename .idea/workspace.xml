@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9f08c358-f854-4521-8299-ff7d9c197036" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/controllers/hello_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/controllers/song-controls_controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/controllers/song-controls_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/controllers/song-controls_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/SongController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SongController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651509376111</updated>
       <workItem from="1651509383032" duration="2525000" />
-      <workItem from="1651586229523" duration="11942000" />
+      <workItem from="1651586229523" duration="13359000" />
     </task>
     <servers />
   </component>
