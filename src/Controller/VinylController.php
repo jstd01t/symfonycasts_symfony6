@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class VinylController extends AbstractController
 {
-    #[Route('/')]
+    #[Route('/', name: 'app_homepage')]
     public function homepage()
     {
         $tracks = [
@@ -27,15 +27,14 @@ class VinylController extends AbstractController
         ]);
     }
 
-    #[Route('/browse/{slug}')]
+    #[Route('/browse/{slug}', name: 'app_browse')]
     public function browse(string $slug = null): Response
     {
-        if ($slug) {
-            $title = ucwords(str_replace('-', ' ', $slug));
-        } else {
-            $title = 'All Genres';
-        }
-        return new Response('Genre: ' . $title);
+        $genre = $slug ? ucwords(str_replace('-', ' ', $slug)) : null;
+
+        return $this->render('vinyl/browse.html.twig', [
+            'genre' => $genre,
+        ]);
     }
 
 
