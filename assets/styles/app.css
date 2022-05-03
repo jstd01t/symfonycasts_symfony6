@@ -1,4 +1,6 @@
 @import "~bootstrap";
+@import "~@fortawesome/fontawesome-free";
+@import "~@fontsource/roboto-condensed";
 
 body {
     background-color: #17242C;
